@@ -1,0 +1,83 @@
+Performance Statistics
+
+Total number of requests = 500031
+Total time since first hit from client = 236797.881000
+Average time per service = 0.473566
+
+Type of request - No. of requests - Average time per request
+Register - 2000 - 0.575247
+Follow - 15499 - 0.137031
+Tweet - 76833 - 1.447168
+Retweet - 2628 - 3.092295
+QueryHashtag - 201558 - 0.925999
+QueryMention - 201513 - 0.926251
+
+
+
+Total number of requests = 500001
+Total time since first hit from client = 413433.911000
+Average time per service = 0.826866
+
+Type of request - No. of requests - Average time per request
+Register - 3000 - 0.380234
+Follow - 24465 - 0.115693
+Tweet - 129134 - 2.157732
+Retweet - 4130 - 5.184633
+QueryHashtag - 169550 - 2.141945
+QueryMention - 169722 - 2.139817
+
+
+
+Total number of requests = 500002
+Total time since first hit from client = 669417.747000
+Average time per service = 1.338830
+
+Type of request - No. of requests - Average time per request
+Register - 4000 - 0.344445
+Follow - 33782 - 0.093192
+Tweet - 178154 - 3.460492
+Retweet - 5725 - 7.609265
+QueryHashtag - 139362 - 4.443098
+QueryMention - 138979 - 4.455345
+
+
+
+Total number of requests = 500001
+Total time since first hit from client = 830236.186000
+Average time per service = 1.660469
+
+Type of request - No. of requests - Average time per request
+Register - 5000 - 0.275411
+Follow - 43357 - 0.082679
+Tweet - 163267 - 4.777381
+Retweet - 6119 - 6.840682
+QueryHashtag - 141261 - 5.521287
+QueryMention - 140997 - 5.531624
+
+
+
+Total number of requests = 500564
+Total time since first hit from client = 3829466.520000
+Average time per service = 7.650303
+
+Type of request - No. of requests - Average time per request
+Register - 6000 - 0.222122
+Follow - 53102 - 0.072009
+Tweet - 163977 - 23.047983
+Retweet - 10776 - 9.363834
+QueryHashtag - 133545 - 9.073171
+QueryMention - 133164 - 9.099101
+
+
+
+Total number of requests = 500200
+Total time since first hit from client = 3718592.228000
+Average time per service = 7.434211
+
+Type of request - No. of requests - Average time per request
+Register - 7000 - 0.212057
+Follow - 63040 - 0.076572
+Tweet - 167727 - 21.871561
+Retweet - 10667 - 341.310757
+QueryHashtag - 125650 - 11.158314
+QueryMention - 126116 - 11.117233

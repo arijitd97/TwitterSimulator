@@ -1,0 +1,12 @@
+Performance Statistics
+
+Total number of requests = 100012
+Total server uptime = 71.990950 seconds
+
+Type of request - No. of requests - Average time per request(ms)
+Register - 1000 - 1.059165
+Follow - 7054 - 0.196871
+Tweet - 35456 - 0.617602
+Retweet - 1348 - 1.913055
+QueryHashtag - 27558 - 0.794240
+QueryMention - 27596 - 0.793097
